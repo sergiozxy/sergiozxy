@@ -6,4 +6,3 @@
 - 🤔 I’m currently learning Database, other funny SQL language and tons of mathematics.
 - 🥇 I'm looking forward to continuing my study in Ph.D programs.
 - 📫 How to reach me: [zxuyuan@umich.edu](mailto:zxuyuan@umich.edu)
-- ⚡ Fun fact: nothing fun in Ann Arbor $\cdots$ 😿
